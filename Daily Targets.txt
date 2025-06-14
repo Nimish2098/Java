@@ -1,0 +1,17 @@
+Day  1
+Client Server,Types of API request,REST API and its Architecture
+http vs https, Status coder.Resource,URI and Sub Resource
+
+Day 2 
+Web Framework,Spring Framework,Coupling(Tight and loose),
+Core Concepts of Spring, Spring Container, Configuration
+
+Day 3
+Setting up a spring project,Creating a first bean, Lifecycle of Bean,
+Dependency Injection,Constructor Injection,Setter Injection,Inversion of 
+Control(IoC)
+
+Day 4
+Autowiring,Types :name,type and constructor,
+Annotations,Components and ComponentsSCan
+@Value Annotations
